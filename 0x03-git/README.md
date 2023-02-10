@@ -1,3 +1,2 @@
-My first readme updated
-Software engineer
-me
+My first readme 
+SE work
